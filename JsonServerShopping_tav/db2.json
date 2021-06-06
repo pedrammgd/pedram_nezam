@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "1",
+      "price": 1,
+      "quantity": 1,
+      "isActive": true,
+      "img": "/storage/emulated/0/Android/data/com.example.shop_cart_tav_flutter/files/Pictures/be9258d2-7a64-45aa-867f-d34a59f3fddb4244577523834527036.jpg",
+      "productTags": [
+        {
+          "id": 1,
+          "tagName": "tag1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "22",
+      "price": 222,
+      "quantity": 2,
+      "isActive": true,
+      "img": "",
+      "productTags": []
+    },
+    {
+      "id": 5,
+      "title": "pr3",
+      "price": 300,
+      "quantity": 3,
+      "isActive": true,
+      "img": "",
+      "productTags": [
+        {
+          "id": 1,
+          "tagName": "tag1"
+        }
+      ]
+    }
+  ],
+  "favorits": [
+    {
+      "id": 6,
+      "liked": false,
+      "product": {
+        "id": 6,
+        "title": "6",
+        "price": null,
+        "quantity": null,
+        "isActive": true,
+        "img": "/storage/emulated/0/Android/data/com.example.shop_cart_tav_flutter/files/Pictures/c64d96de-2cee-478a-87ac-b9ccdf9b85246060423807743636951.jpg",
+        "productTags": []
+      }
+    }
+  ],
+  "shoppingCart": [
+    {
+      "id": 1,
+      "quantity": 1,
+      "product": {
+        "id": 1,
+        "title": "product1",
+        "price": 100,
+        "quantity": 6,
+        "isActive": true,
+        "img": "/data/user/0/com.example.shop_cart_tav_flutter/cache/image_picker1686107440900676026.jpg",
+        "productTags": [
+          {
+            "id": 2,
+            "tagName": "tag2"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "quantity": 1,
+      "product": {
+        "id": 2,
+        "title": "product2",
+        "price": 100,
+        "quantity": 3,
+        "isActive": true,
+        "img": "/data/user/0/com.example.shop_cart_tav_flutter/cache/image_picker1686107440900676026.jpg",
+        "productTags": [
+          {
+            "id": 1,
+            "tagName": "tag1"
+          },
+          {
+            "id": 2,
+            "tagName": "tag2"
+          }
+        ]
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "tagName": "tag66555"
+    },
+    {
+      "id": 3,
+      "tagName": "tag45t5t"
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "username": "pedram2",
+      "password": "12345"
+    },
+    {
+      "id": 1,
+      "username": "pedram",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "username": "admin",
+      "password": "123456"
+    }
+  ]
+}
